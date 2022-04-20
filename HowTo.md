@@ -1,4 +1,4 @@
-<h1>Come usare una libreria.</h1>
+<h1>Come usare una libreria</h1>
 
 1) Creare un file .py
 2) Importare la libreria con la dicitura "```import **nome libreria**```"<br>
@@ -19,3 +19,6 @@
    1  import my_lib_incertezze as inc
    2  inc.incPropagate(args)
    ```
+   
+<h4>Attenzione</h4>
+<p>La libreria deve stare nello stesso folder del file che create</p>
