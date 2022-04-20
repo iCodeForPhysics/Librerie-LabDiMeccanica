@@ -3,7 +3,7 @@
 1) Creare un file .py
 2) Importare la libreria con la dicitura "```import **nome libreria**```"<br>
    Altri modi per importare una libreria:<br>
-   ```from **nome libreria** import **nome funzione 1**, **nome funzione x**```<br>
+   ```from **nome libreria** import **nome funzione 1**, ..., **nome funzione x**```<br>
    ```import **nome libreria** as **nome semplificato**```<br>
    Esempio:<br>
    ```
