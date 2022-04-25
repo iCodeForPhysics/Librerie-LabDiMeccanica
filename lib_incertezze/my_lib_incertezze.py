@@ -14,7 +14,6 @@
 
 
 
-from symtable import Symbol
 from sympy import symbols, diff, sqrt
 
 def incRipetute(sd, n, ris, sb): # Incertezza per misurazioni ripetute
